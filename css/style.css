@@ -1,6 +1,5 @@
 body, html{
   -webkit-font-smoothing: antialiased !important;
-  -moz-osx-font-smoothing: grayscale;
   overflow-y: auto;
   overflow-x: hidden;
   font-family: 'Montserrat', sans-serif;
@@ -375,12 +374,6 @@ a.btn.send-btn:hover{
 	padding: 8% 0 ;
 	color: #ffffff;
 }
-
-/*ul, ol{
-	padding: 0;
-	moz-padding: 0;
-	webkit-padding: 0;
-}*/
 
 ul.clients li{
 	display: inline-block;
